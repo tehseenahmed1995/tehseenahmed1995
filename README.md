@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @tehseenahmed1995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React.js along with PHP Laravel framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in research based projects specially related to AI and machine learing.
+- 🌱 I’m currently learning React.js along with PHP Laravel framework. In future I'll learn Python.
+- 💞️ I’m looking to collaborate on 
+- 📫You can reach me out through email: "mtehseenahmed5@gmail.com" 
+- linkedin : tehseenahmed1995
+- Upwork : tehseen05
+- Fiver : https://www.fiverr.com/tehseen05
 
 <!---
 tehseenahmed1995/tehseenahmed1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
