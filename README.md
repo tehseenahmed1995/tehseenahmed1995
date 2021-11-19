@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tehseenahmed1995
-- 👀 I’m interested in research based projects specially related to AI and machine learing.
-- 🌱 I’m currently learning React.js along with PHP Laravel framework. In future I'll learn Python.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m PHP developer currently learning React.js along with Laravel framework. In future I'll learn Python.
+- 💞️ I’m looking to collaborate on
+- - 👀 I’m interested in research based projects specially related to AI and machine learing.
 - 📫You can reach me out through email: "mtehseenahmed5@gmail.com" 
 - linkedin : tehseenahmed1995
 - Upwork : tehseen05
