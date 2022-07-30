@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @tehseenahmed1995
-- 🌱 I’m PHP developer currently learning React.js along with Laravel framework. In future I'll learn Python.
-- 💞️ I’m looking to collaborate on
-- - 👀 I’m interested in research based projects specially related to AI and machine learing.
+- 🌱 I’m PHP developer having expertise in Laravel,React.js, MYSQL, PostGres,MSSQL, Linux,Git..
 - 📫You can reach me out through email: "mtehseenahmed5@gmail.com" 
 - linkedin : tehseenahmed1995
-- Upwork : tehseen05
 - Fiver : https://www.fiverr.com/tehseen05
+- Upwork : tehseen05
 
 <!---
 tehseenahmed1995/tehseenahmed1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
