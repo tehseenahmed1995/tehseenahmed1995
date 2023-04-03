@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @tehseenahmed1995
 - 🌱 I’m PHP developer having expertise in Laravel,React.js, MYSQL, PostGres,MSSQL, Linux,Git..
 - 📫You can reach me out through email: "mtehseenahmed5@gmail.com" 
-- linkedin : tehseenahmed1995
-- Fiver : https://www.fiverr.com/tehseen05
-- Upwork : tehseen05
+- linkedin : [tehseenahmed1995](https://www.linkedin.com/in/tehseenahmed1995/)
+
 
 <!---
 tehseenahmed1995/tehseenahmed1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
