@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tehseenahmed1995
 - 🌱 I’m PHP developer having expertise in Laravel,React.js, MYSQL, PostGres,MSSQL, Linux,Git..
 - 📫You can reach me out through email: "mtehseenahmed5@gmail.com"
-   Learning AI and Data Science
+  
 - linkedin : [tehseenahmed1995](https://www.linkedin.com/in/tehseenahmed1995/)
 
 
